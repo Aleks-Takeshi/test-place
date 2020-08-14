@@ -1,0 +1,59 @@
+a {
+    text-decoration: none !important;
+    color: black;
+}
+
+h1 {
+    padding: 25px 0 25px 0;
+}
+
+.title {
+    padding-top: 6%;
+    padding-left: 5%;
+}
+
+.menu {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.menu ul {
+    margin: 0 0;
+}
+
+.menu li {
+    display: block;
+    padding: 15px 30px 15px 30px;
+}
+.menu li:hover {
+    background-color: black;
+}
+
+.menu li:hover a {
+    color:white;
+    background-color: black;
+}
+
+.main img {
+    border: 2px solid black;
+}
+
+input {
+    margin: 10px 0 10px 0;
+}
+
+.contacts ul {
+    padding: 0 0;
+}
+
+.contacts li {
+    display: block;
+}
+
+.footer__contacts ul {
+    padding: 0 0;
+}
+
+.footer__contacts li {
+    display: block;
+}
